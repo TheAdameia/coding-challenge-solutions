@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\spinning-words\\spinningWords.jsx",
+            "program": "${workspaceFolder}\\SquareNumber.jsx",
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]
